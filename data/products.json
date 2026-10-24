@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Wire-O Notebook - Chariot", "category": "stationery", "price": 399, "description": "A5 ruled notebook with a hard cover." },
+  { "id": 2, "name": "Wire-O Notebook - Lotus", "category": "stationery", "price": 399, "description": "A5 dotted notebook with a hard cover." },
+  { "id": 3, "name": "Cotton T-Shirt - Wheel", "category": "apparel", "price": 699, "description": "Regular fit, 100% cotton." },
+  { "id": 4, "name": "Cotton T-Shirt - Lion", "category": "apparel", "price": 699, "description": "Regular fit, 100% cotton." },
+  { "id": 5, "name": "Sandalwood Bead Bracelet", "category": "accessories", "price": 549, "description": "Hand-strung, adjustable size." },
+  { "id": 6, "name": "Reading Journal", "category": "stationery", "price": 449, "description": "Track books, notes and quotes." }
+]

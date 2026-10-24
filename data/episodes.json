@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Sample Episode: Reading Texts in the Original", "guest": "Sample Guest A", "durationMin": 52, "topic": "literature" },
+  { "id": 2, "title": "Sample Episode: Storytelling and Adaptation", "guest": "Sample Guest B", "durationMin": 45, "topic": "media" },
+  { "id": 3, "title": "Sample Episode: History and Heritage", "guest": "Sample Guest C", "durationMin": 60, "topic": "history" }
+]
