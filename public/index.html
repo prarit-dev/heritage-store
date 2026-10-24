@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Heritage Store</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Heritage Store</h1>
+    <div class="filters">
+      <input id="search" type="search" placeholder="Search products" aria-label="Search products" />
+      <select id="category" aria-label="Category">
+        <option value="">All categories</option>
+        <option value="stationery">Stationery</option>
+        <option value="apparel">Apparel</option>
+        <option value="accessories">Accessories</option>
+      </select>
+      <select id="sort" aria-label="Sort">
+        <option value="">Sort: default</option>
+        <option value="price_asc">Price: low to high</option>
+        <option value="price_desc">Price: high to low</option>
+        <option value="name">Name</option>
+      </select>
+    </div>
+  </header>
+  <main>
+    <div>
+      <section id="products" class="grid" aria-live="polite"></section>
+      <h2>Episodes (sample data)</h2>
+      <ul id="episodes"></ul>
+    </div>
+    <aside id="cart">
+      <h2>Cart</h2>
+      <ul id="cart-items"></ul>
+      <p id="cart-total"></p>
+      <button id="checkout" type="button">Checkout</button>
+      <p id="message" role="status"></p>
+    </aside>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
