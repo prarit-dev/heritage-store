@@ -1,0 +1,12 @@
+{
+  "name": "heritage-store",
+  "version": "1.0.0",
+  "description": "Small full-stack demo: content + merchandise store with search, cart and server-side checkout validation. Zero dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
