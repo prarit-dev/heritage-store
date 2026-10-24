@@ -20,7 +20,7 @@ Node.js 18+, HTTP module, vanilla JavaScript, HTML, CSS
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/heritage-store.git
+git clone https://github.com/prarit-dev/heritage-store.git
 cd heritage-store
 npm start        # http://localhost:3000
 npm test         # runs the API tests
